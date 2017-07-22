@@ -79,7 +79,7 @@
                             <a href='/booktitle/view/{!! $booktitle->id !!}'  class='btn btn-info' role='button'><span class='glyphicon glyphicon-eye-open'> View</a>
                             <a href='/booktitle/edit/{!! $booktitle->id !!}'  class='btn btn-success' role='button'><span class='glyphicon glyphicon-edit'> Edit</a>
 
-                            <a href='/booktitle/delete/{!! $booktitle->id !!}' class='btn btn-danger' role='button' onclick='return confirm_delete()'> <span class='glyphicon glyphicon-warning-sign'> Delete </a>
+                            <a href='/booktitle/delete/{!! $booktitle->id !!}' class='btn btn-danger' role='button' <span class='glyphicon glyphicon-warning-sign'> Delete </a>
 
                         </td>
 
@@ -101,7 +101,7 @@
 </div>
 
 <div class="col-md-12">
-    <h1 style="font-family: 'Lato Light'; text-align: center">Implemented by <b>Jashim Uddin</b></h1>
+    <h1 style="text-align: center"; font-family="Lato" >Implemented by <b><a href="https://www.facebook.com/jashim787">Jashim Uddin</b></h1></a>
 </div>
 
 

@@ -16,7 +16,7 @@
         <a  class="navbar-brand" href="/booktitle"> Home </a>
     </div>
 
-    <div>
+<!--    <div>
         <form class="navbar-form navbar-left" role="search">
             <div class="form-group">
                 <input type="text" class="form-control" placeholder="Search">
@@ -25,7 +25,7 @@
 
         </form>
     </div>
-
+-->
 
 </nav>
 
@@ -54,7 +54,7 @@
                     <input type="text" class="form-control" name="authorName" placeholder="Enter Author Name">
                 </div>
 
-                <input class="btn btn-success" type="submit" value="submit">
+                <input class="btn btn-success" type="submit" value="Submit">
                 <a href='/booktitle/index' class='btn btn-primary' role='button'>  <span class='glyphicon glyphicon-home'> Return Home</a>
 
                  <a href='/booktitle/' class='btn btn-primary' role='button'>  <span class='glyphicon glyphicon-home'> Return to  Dashboard </a>
@@ -68,7 +68,7 @@
 <br>
 <br>
 <div class="col-md-12">
-    <h2 style="text-align: center; font-family: 'Lato Light'">Implemented by <b><a href="https://www.facebook.com/jashim787">Jashim Uddin</b></h2></a>
+    <h2 style="text-align: center; font-family: 'Lato Light'">Implemented by <b><a href="https://www.facebook.com/jashim787/">Jashim Uddin</b></h2></a>
 </div>
 
 

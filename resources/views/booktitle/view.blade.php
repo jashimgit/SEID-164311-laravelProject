@@ -56,6 +56,9 @@
                 <li role="presentation">
                     <a href="/booktitle/index"><i class="glyphicon glyphicon-chevron-right"></i> View All Book List</a>
                 </li>
+                <li role="presentation">
+                    <a href="/booktitle/index"><i class="glyphicon glyphicon-chevron-right"></i> Back </a>
+                </li>
 
             </ul>
         </div>
@@ -93,7 +96,7 @@
 
 
 <div class="col-md-12">
-    <h3 style="text-align: center"; font-family="Lato" >Implemented by <b><a href="https://www.facebook.com/jashim787">Jashim Uddin</b></h3></a>
+    <h1 style="text-align: center"; font-family="Lato" >Implemented by <b><a href="https://www.facebook.com/jashim787">Jashim Uddin</b></h1></a>
 </div>
 
 </body>
