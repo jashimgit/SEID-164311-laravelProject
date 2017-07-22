@@ -81,7 +81,7 @@ if(!isset($_SESSION)) session_start();
 
 
 
-<<div class="container-fluid">
+<div class="container-fluid">
 
     <div class="row">
         <div class="col-lg-3 col-md-3 col-sm-3 col-xs-2"></div>
@@ -105,7 +105,7 @@ if(!isset($_SESSION)) session_start();
 <br><br><br><br>
 <div class="col-md-12" id="footer">
 
-        {{--<h3>Implemented by <b><a href="https://www.facebook.com/jashim787">Jashim Uddin</b></h3></a>--}}
+        <h3>Implemented by <b><a href="https://www.facebook.com/jashim787">Jashim Uddin</b></h3></a>
 
 </div>
 
